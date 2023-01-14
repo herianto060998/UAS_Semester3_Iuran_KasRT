@@ -31,6 +31,14 @@
 
 ![gambar1](gambar/a.png.png)
 
+admin : <p>
+email = admin@gmail.com <p>
+password = admin123 <p>
+
+user : <p>
+email = user@gmail.com <p>
+password = user123 <p>
+
 ## DASHBOARD
 
 ![gambar2](gambar/b.png.png)
