@@ -1,0 +1,14 @@
+Langkah instalasi aplikasi
+1. install XAMPP
+2. buka xampp, klik start pada apache dan mysql
+3. buka browser, ketik localhost, klik phpmyadmin, buat database dengan nama "iuran_rt", kemudian import "iuran_rt.sql"
+4. extract "iuran_rt.zip" kemudian letakkan di folder "/xampp/htdoc/"
+5. buka browser, ketik "localhost/iuran_rt"
+6. Masukkan data berikut pada halaman login : 
+admin :
+email = admin@gmail.com
+password = admin123
+
+user :
+email = user@gmail.com
+password = user123
